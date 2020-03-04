@@ -1,0 +1,45 @@
+﻿1:Popescu Ion:Scoala Gimnaziala “Horea”:1:Houston Rockets 
+2:Ionescu Mihai:Scoala Gimnaziala “Horea”:1:Houston Rockets
+3:Popa Vasile:Scoala Gimnaziala “Horea”:1:Houston Rockets
+4:Pop Daniel:Scoala Gimnaziala “Horea”:1:Houston Rockets
+5:Nita Andrei:Scoala Gimnaziala “Horea”:1:Houston Rockets
+6:Nitu Valentin:Scoala Gimnaziala “Horea”:1:Houston Rockets
+7:Constantin Ion:Scoala Gimnaziala “Horea”:1:Houston Rockets
+8:Stan Alex:Scoala Gimnaziala “Horea”:1:Houston Rockets
+9:Marin Florin:Scoala Gimnaziala “Horea”:1:Houston Rockets
+10:Tudor Alex:Scoala Gimnaziala “Horea”:1:Houston Rockets
+11:Nistor Vlad:Scoala Gimnaziala “Horea":1:Houston Rockets"
+12:Petrescu Alina:Scoala Gimnaziala “Horea”:1:Houston Rockets
+13:Rusu Laurentiu:Scoala Gimnaziala “Horea”:1:Houston Rockets
+14:Lupu Mara:Scoala Gimnaziala “Horea”:1:Houston Rockets
+15:Munteanu Andreea:Scoala Gimnaziala “Horea”:1:Houston Rockets
+16:Dinu Alexandra:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+17:Teodoru Vlad:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+18:Ifrim Ioana:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+19:Stoica Ema:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+20:Georgescu Daniela:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+21:Florea Cosmin:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+22:Toma George:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+23:Diaconu Gina:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+24:Pop Ioan:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+25:Radu Mihai:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+26:Robu Octavian:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+27:Sandu Florin:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+28:Topa Vasile:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+29:Voicu Violeta:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+30:Romaniuc Patricia:Scoala Gimnaziala "Octavian Goga":2:Los Angeles Lakers
+31:Badea Maria:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+32:Aciu Mihaela:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+33:Bogdan Octavian:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+34:Cazacu Oana:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+35:Calin Marius:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+36:Cobzariu Roxana:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+37:Vieru Ana:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+38:Mineo Olivia:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+39:Costea Diana:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+40:Pop Mihai:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+41:Pop Mihaela:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+42:Dumbrava Maria:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+43:Dima Stefan:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+44:Ivanov Viorel:Liceul Teoretic "Lucian Blaga":3:LA Clippers
+45:Cristi Mihai:Liceul Teoretic "Lucian Blaga":3:LA Clippers

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject>Lab10.MainApp</StartupObject>
+    <Win32Resource />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NuGet.Frameworks" Version="5.4.0" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+  </ItemGroup>
+
+</Project>

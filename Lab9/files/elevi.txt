@@ -1,0 +1,45 @@
+﻿1:Popescu Ion:Scoala Gimnaziala “Horea” 
+2:Ionescu Mihai:Scoala Gimnaziala “Horea” 
+3:Popa Vasile:Scoala Gimnaziala “Horea” 
+4:Pop Daniel:Scoala Gimnaziala “Horea” 
+5:Nita Andrei:Scoala Gimnaziala “Horea” 
+6:Nitu Valentin:Scoala Gimnaziala “Horea” 
+7:Constantin Ion:Scoala Gimnaziala “Horea” 
+8:Stan Alex:Scoala Gimnaziala “Horea” 
+9:Marin Florin:Scoala Gimnaziala “Horea” 
+10:Tudor Alex:Scoala Gimnaziala “Horea” 
+11:Nistor Vlad:Scoala Gimnaziala “Horea” 
+12:Petrescu Alina:Scoala Gimnaziala “Horea” 
+13:Rusu Laurentiu:Scoala Gimnaziala “Horea” 
+14:Lupu Mara:Scoala Gimnaziala “Horea” 
+15:Munteanu Andreea:Scoala Gimnaziala “Horea” 
+16:Dinu Alexandra:Scoala Gimnaziala "Octavian Goga"
+17:Teodoru Vlad:Scoala Gimnaziala "Octavian Goga"
+18:Ifrim Ioana:Scoala Gimnaziala "Octavian Goga"
+19:Stoica Ema:Scoala Gimnaziala "Octavian Goga"
+20:Georgescu Daniela:Scoala Gimnaziala "Octavian Goga"
+21:Florea Cosmin:Scoala Gimnaziala "Octavian Goga"
+22:Toma George:Scoala Gimnaziala "Octavian Goga"
+23:Diaconu Gina:Scoala Gimnaziala "Octavian Goga"
+24:Pop Ioan:Scoala Gimnaziala "Octavian Goga"
+25:Radu Mihai:Scoala Gimnaziala "Octavian Goga"
+26:Robu Octavian:Scoala Gimnaziala "Octavian Goga"
+27:Sandu Florin:Scoala Gimnaziala "Octavian Goga"
+28:Topa Vasile:Scoala Gimnaziala "Octavian Goga"
+29:Voicu Violeta:Scoala Gimnaziala "Octavian Goga"
+30:Romaniuc Patricia:Scoala Gimnaziala "Octavian Goga"
+31:Badea Maria:Liceul Teoretic "Lucian Blaga" 
+32:Aciu Mihaela:Liceul Teoretic "Lucian Blaga" 
+33:Bogdan Octavian:Liceul Teoretic "Lucian Blaga" 
+34:Cazacu Oana:Liceul Teoretic "Lucian Blaga" 
+35:Calin Marius:Liceul Teoretic "Lucian Blaga" 
+36:Cobzariu Roxana:Liceul Teoretic "Lucian Blaga" 
+37:Vieru Ana:Liceul Teoretic "Lucian Blaga" 
+38:Mineo Olivia:Liceul Teoretic "Lucian Blaga" 
+39:Costea Diana:Liceul Teoretic "Lucian Blaga" 
+40:Pop Mihai:Liceul Teoretic "Lucian Blaga" 
+41:Pop Mihaela:Liceul Teoretic "Lucian Blaga" 
+42:Dumbrava Maria:Liceul Teoretic "Lucian Blaga" 
+43:Dima Stefan:Liceul Teoretic "Lucian Blaga" 
+44:Ivanov Viorel:Liceul Teoretic "Lucian Blaga" 
+45:Cristi Mihai:Liceul Teoretic "Lucian Blaga" 

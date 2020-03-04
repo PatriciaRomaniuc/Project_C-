@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\Lab9\Lab9\obj\Debug\netstandard1.5\Lab10.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Lab9\Lab9\obj\Debug\netstandard1.5\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Lab9\Lab9\obj\Debug\netstandard1.5\Lab10.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Lab9\Lab9\obj\Debug\netstandard1.5\Lab10.AssemblyInfo.cs
+C:\Users\pc\source\repos\Lab9\Lab9\bin\Debug\netstandard1.5\Lab10.deps.json
+C:\Users\pc\source\repos\Lab9\Lab9\bin\Debug\netstandard1.5\Lab10.dll
+C:\Users\pc\source\repos\Lab9\Lab9\bin\Debug\netstandard1.5\Lab10.pdb
+C:\Users\pc\source\repos\Lab9\Lab9\obj\Debug\netstandard1.5\Lab10.dll
+C:\Users\pc\source\repos\Lab9\Lab9\obj\Debug\netstandard1.5\Lab10.pdb
